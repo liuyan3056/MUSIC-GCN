@@ -12,3 +12,17 @@ torch  1.10.0
 python 3.6.13
 
 #Datasets:
+
+https://github.com/liuyan3056/MUSIC-GCN/datasets/
+
+the raw datasets are downloaded from:
+
+https://hemberg-lab.github.io/scRNA.seq.datasets/
+
+#Usage:
+
+python MUSIC-GCN.py
+
+#Connect
+
+If you have any questions, please contact yanliu@njust.edu.cn
